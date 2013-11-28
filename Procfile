@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n Hugo
+web: bin/hubot --adapter hipchat --name Hugo
